@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Highrider15
+- 👀 I’m interested in understanding the inner workings of complicated systems in every field of engineering.
+- 🌱 I’m currently learning programming over Arduino using C.
+- 💞️ I can design web applications using PHP. Welp, PHP has a bad reputation because of its kinda bad design but when you learn to implement MVC architecture over PHP it becomes comfortable to design complex web applications. Test Driven Development for the win!!
+- 🍁 I believe in self-learning.
